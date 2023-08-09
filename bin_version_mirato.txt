@@ -23,6 +23,6 @@
     }
   ],
   "aggiornamento_per_tutte": {
-    "aggiornamento": true
+    "aggiornamento": false
   }
 }
