@@ -14,7 +14,7 @@
       "aggiornamento": false
     },
     {
-      "numero_seriale": "C82A9A1CB2B0",
+      "numero_seriale": "C82A9A1CB2B1",
       "aggiornamento": false
     },
     {
