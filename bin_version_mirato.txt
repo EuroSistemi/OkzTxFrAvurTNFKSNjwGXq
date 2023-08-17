@@ -2,7 +2,7 @@
   "versione_software": "1.0.0",
   "schede_da_aggiornare": [
     {
-      "numero_seriale": "4C7386A7DBCC",
+      "numero_seriale": "D87386A7DBCC",
       "aggiornamento": true
     },
     {
