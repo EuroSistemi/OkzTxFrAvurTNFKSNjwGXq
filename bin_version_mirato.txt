@@ -10,7 +10,7 @@
       "aggiornamento": true
     },
     {
-      "numero_seriale": "D87386A7DBCC",
+      "numero_seriale": "746B86A7DBCC",
       "aggiornamento": true
     },
     {
