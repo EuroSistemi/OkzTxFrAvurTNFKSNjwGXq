@@ -3,26 +3,26 @@
   "schede_da_aggiornare": [
     {
       "numero_seriale": "8CA6BB0C3890",
-      "aggiornamento": true
+      "aggiornamento": false
     },
     {
       "numero_seriale": "187486A7DBCC",
-      "aggiornamento": true
+      "aggiornamento": false
     },
     {
       "numero_seriale": "5CA6BB0C3890",
-      "aggiornamento": true
+      "aggiornamento": false
     },
     {
       "numero_seriale": "FC6A86A7DBCC",
-      "aggiornamento": true
+      "aggiornamento": false
     },
     {
       "numero_seriale": "CC6F86A7DBCC",
-      "aggiornamento": true
+      "aggiornamento": false
     }
   ],
   "aggiornamento_per_tutte": {
-    "aggiornamento": true
+    "aggiornamento": false
   }
 }
