@@ -1,9 +1,9 @@
 {
-  "versione_software": "1.0.1",
+  "versione_software": "1.0.3",
   "schede_da_aggiornare": [
     {
-      "numero_seriale": "8CA6BB0C3890",
-      "aggiornamento": false
+      "numero_seriale": "042E9A1CB2B0",
+      "aggiornamento": true
     },
     {
       "numero_seriale": "187486A7DBCC",
