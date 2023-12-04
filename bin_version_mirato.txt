@@ -2,23 +2,23 @@
   "versione_software": "1.0.5",
   "schede_da_aggiornare": [
     {
-      "numero_seriale": "5CA6BB0C3890",
+      "numero_seriale": "8CA6BB0C3890",
       "aggiornamento": true
     },
     {
-      "numero_seriale": "CC6F86A7DBCC",
+      "numero_seriale": "446B86A7DBCC",
       "aggiornamento": true
     },
     {
-      "numero_seriale": "987386A7DBCC",
+      "numero_seriale": "186B86A7DBCC",
       "aggiornamento": true
     },
     {
-      "numero_seriale": "98A6BB0C3890",
+      "numero_seriale": "FC6A86A7DBCC",
       "aggiornamento": true
     },
     {
-      "numero_seriale": "AC7386A7DBCC",
+      "numero_seriale": "F86A86A7DBCC",
       "aggiornamento": true
     }
   ],
