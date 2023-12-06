@@ -10,8 +10,8 @@
       "aggiornamento": true
     },
     {
-      "numero_seriale": "187486A7DBCC",
-      "aggiornamento": false
+      "numero_seriale": "40A6BB0C3890",
+      "aggiornamento": true
     },
     {
       "numero_seriale": "807486A7DBCC",
