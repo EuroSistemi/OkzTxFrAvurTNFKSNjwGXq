@@ -15,7 +15,7 @@
     },
     {
       "numero_seriale": "042E9A1CB2B0",
-      "aggiornamento": false
+      "aggiornamento": true
     },
     {
       "numero_seriale": "147386A7DBCC",
